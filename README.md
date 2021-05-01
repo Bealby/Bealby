@@ -7,12 +7,12 @@ in the Business Financial sector.
 Highly driven and motivated, I readily adapt to different situations and thrive
 on delivery, success and attention to detail.
 
-I am currently working with Frontend Development projects where I focus website
+I am currently working with Frontend Development projects. I focus my website
 design on the principles and doctrine behind Steve Krug's book
 "Don't Make Me Think".
 
-Clean, validated code is of the up most importance in my work along with the
-modern approach of 'Mobile First' design.
+Clean, validated code is of the up most importance in my work along with
+the necessity for a 'Mobile First' approach in modern design.
 
 ---
 
