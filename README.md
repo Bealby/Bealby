@@ -34,28 +34,10 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="Aws" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+---
 
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL logo" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Sripe logo" width="50px" height="50px" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP logo" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/google-maps-2020-icon.svg" alt="Google Maps logo" width="50px" height="50px" />
+![Murray Bealby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bealby&show_icons=true&theme=prussian)
 
 ---
 
-
-[![Murray Bealby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bealby)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bealby)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bealby&hide=html&theme=prussian)](https://github.com/Bealby/github-readme-stats)
