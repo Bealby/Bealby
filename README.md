@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 ---
 
 
-[![Murray Bealby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bealby)](https://github.com/Bealby/github-readme-stats)
+[![Murray Bealby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bealby)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bealby)](https://github.com/Bealby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bealby)]
