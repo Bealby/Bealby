@@ -12,7 +12,7 @@ design on the principles and doctrine behind Steve Krug's book
 "Don't Make Me Think".
 
 Clean, validated code is of the up most importance in my work along with
-the necessity for a 'Mobile First' approach in modern design.
+the necessity for a 'Mobile First' approach in any new website design.
 
 ---
 
