@@ -18,7 +18,7 @@ the necessity for a 'Mobile First' approach in any new website design.
 
 ## Work in Progress
 
-- 👷 I’m currently working on a website for
+- 👷 Building a website for
      Frank Hurst - author of the infamous The Golden Triangle Trilogy
 
 ---
