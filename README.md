@@ -19,7 +19,7 @@ the necessity for a 'Mobile First' approach in any new website design.
 ## Work in Progress
 
 - 👷 Building a website for
-     Frank Hurst - author of the infamous The Golden Triangle Trilogy
+     Frank Hurst - Author of the infamous The Golden Triangle Trilogy
 
 ---
 
