@@ -1,18 +1,9 @@
 # Hi 👋
 
-I am a qualified Full Stack Web Developer experienced in HTML, CSS, Javascript
-and Python, with 15 years’ experience working for international companies
-in the Business Financial sector.
-
-Highly driven and motivated, I readily adapt to different situations and thrive
-on delivery, success and attention to detail.
-
-I am currently working with Frontend Development projects. I focus my website
-design on the principles and doctrine behind Steve Krug's book
-"Don't Make Me Think".
+I am a Full Stack/ Frontend Web Developer.
 
 Clean, validated code is of the up most importance in my work along with
-the necessity for a 'Mobile First' approach in any new website design.
+the necessity for a 'Mobile First' approach in any new website designs.
 
 ---
 
