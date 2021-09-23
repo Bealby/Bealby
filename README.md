@@ -41,13 +41,10 @@ I am a Full Stack/ Frontend Web Developer.
 
 ### Language Validators
 
-- [W3C](https://validator.w3.org/) - Used to validate HTML code
-- [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
-- [Validate Javascript](https://validatejavascript.com//) - Used to validate
-   JavaScript
-- [Pep8 online](http://pep8online.com/) - Validator for Python code
-- [Markdown Lint](https://github.com/Bealby/markdownlint) - Markdown validation
-   service used to check README.md and TESTING.md
+<a href="https://validator.w3.org/"> <img src="https://logodownload.org/wp-content/uploads/2017/10/w3c-logo.png" alt="W3C" width="40" height="40"/> </a>
+<a href="https://validatejavascript.com/"> <img src="https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV" alt="JavaScript" width="40" height="40"/> </a>
+<a href="http://pep8online.com/"></a>
+<a href="https://github.com/Bealby/markdownlint"></a>
    
 ### Libraries & Frameworks
 
@@ -55,7 +52,7 @@ I am a Full Stack/ Frontend Web Developer.
 <a href="https://getbootstrap.com/"> <img src="https://www.kindpng.com/picc/m/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="Bootstrap" width="50" height="40"/> </a>
 <a href="https://jquery.com/"> <img src="https://pluspng.com/img-png/jquery-logo-png-jquery-logo-png-transparent-background-png-img-transparent-860x868.png" alt="JQuery" width="40" height="40"/> </a>
 <a href="https://reactjs.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="React" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" width="40" height="40"/> </a>
 
 ### Databases
 
