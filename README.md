@@ -2,9 +2,6 @@
 
 I am a Full Stack/ Frontend Web Developer.
 
-Clean, validated code is of the up most importance in my work along with
-the necessity for a 'Mobile First' approach in any new website designs.
-
 ---
 
 ## Work in Progress
