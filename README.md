@@ -25,8 +25,8 @@ I am a Full Stack/ Frontend Web Developer.
 
 ### IDE
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/> </a>
-<a href="https://gitpod.io/workspaces/" target="_blank"> <img src="https://gitpod.io/static/media/gitpod.2cdd910d.svg"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="VSCODE" width="40" height="40"/> </a>
+<a href="https://gitpod.io/workspaces/" target="_blank"> <img src="https://gitpod.io/static/media/gitpod.2cdd910d.svg" alt="Gitpod" width="40" height="40"/> </a>
 
 ---
 
