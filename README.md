@@ -4,10 +4,14 @@ I am a Full Stack/ Frontend Web Developer.
 
 ---
 
+## Clients
+
+- Frank Hurst - Novelist and Thriller Writer ➡️ 
+- Lisa Fairfield - Actress ➡️ 
+- Ignite Theatre - Theatrical Organisation ➡️ 
+
 ## Work in Progress
 
-- 👷  Building a website for
-      Frank Hurst - Author of the infamous The Golden Triangle Trilogy
 - 📚  Expanding my knowledge in Javascript and React
 
 ## Projects
