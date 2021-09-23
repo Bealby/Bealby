@@ -30,8 +30,8 @@ I am a Full Stack/ Frontend Web Developer.
 
 ### Hosting
 
-<a href="https://id.heroku.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/heroku-logo-png-transparent.pngg" alt="VSCODE" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="Gitpod" width="40" height="40"/> </a>
+<a href="https://id.heroku.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/heroku-logo-png-transparent.png" alt="Heroku" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" alt="Github" width="40" height="40"/> </a>
 
 
 
