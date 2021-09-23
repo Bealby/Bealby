@@ -36,10 +36,18 @@ I am a Full Stack/ Frontend Web Developer.
 
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" alt="HTML" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F8c%2F8cdf4c047e99f7389e76aa4e2e7e2803.png&f=1&nofb=1" alt="CSS" width="40" height="40"/> </a>
-<a href="https://www.python.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/"> <img src="https://codingthesmartway.com/wp-content/uploads/2020/07/logo_javascript_2.jpg" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.python.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width="40" height="40"/> </a>
 
+### Libaries & Frameworks
 
+- [DJANGO](https://www.djangoproject.com//) - A high-level Python Web framework that
+  encourages rapid development and clean, pragmatic design
+- [BOOTSTRAP](https://getbootstrap.com/) - A framework for building responsive
+   Websites
+- [jQuery](https://jquery.com/) - Used to implement Navigation Collapse feature
+   JavaScript Plugin
+   React
 
 
 ### Language Validators
@@ -52,12 +60,9 @@ I am a Full Stack/ Frontend Web Developer.
 - [Markdown Lint](https://github.com/Bealby/markdownlint) - Markdown validation
    service used to check README.md and TESTING.md
 
-### Libraries
+### Databases
 
-- [Google Fonts](https://fonts.google.com/) - Program used to import main
-   fonts in Website
-- [Font Awesome](https://fontawesome.com/) - Program used to import a multitude
-   of icons for the Website
+MOngo
 - [SQLite](https://sqlite.org/index.html) - SQLite is a C-language library that
    implements a small, fast, self-contained, high-reliability, full-featured,
    SQL database engine
@@ -70,6 +75,7 @@ I am a Full Stack/ Frontend Web Developer.
    up draft designs for the Website
 - [Adobe Photoshop](https://www.adobe.com//) - Graphics editor
 - [Adobe Illustrator](https://www.adobe.com//) - Vector graphics editor
+- Indesign
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
    to generate Mockup of Website on different devices
 - [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
@@ -93,16 +99,6 @@ I am a Full Stack/ Frontend Web Developer.
 - [dbdiagram](https://dbdiagram.io/home/) - Used to draw Entity-Relationship
    Diagrams
 
-### Frameworks
-
-- [DJANGO](https://www.djangoproject.com//) - A high-level Python Web framework that
-  encourages rapid development and clean, pragmatic design
-- [BOOTSTRAP](https://getbootstrap.com/) - A framework for building responsive
-   Websites
-- [jQuery](https://jquery.com/) - Used to implement Navigation Collapse feature
-   JavaScript Plugin
-- [Popper](https://popper.js.org/) - Used to implement Navigation Collapse
-   feature JavaScript Plugin
 
 
 
