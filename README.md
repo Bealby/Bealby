@@ -64,39 +64,10 @@ I am a Full Stack/ Frontend Web Developer.
 <a href="https://www.adobe.com/"> <img src="https://www.hsm360.com/wp-content/uploads/2016/07/Adobe-Photoshop-CC.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://www.softkey.ua/upload/iblock/b7c/adobe-illustrator-cc-5423.png" alt="Adobe Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://2.bp.blogspot.com/-wy_COL_zb4I/W93G6-iUaBI/AAAAAAAAAqM/MtJB5scs6LwCGTuR0FcpU6XsDrlj4DsQACLcBGAs/s1600/Adobe%2BInDesign%2BCC%2B2018%2BLogo.png" alt="Adobe Indesign" width="40" height="40"/> </a>
-
-
-- [Adobe Photoshop](https://www.adobe.com//) - Graphics editor
-- [Adobe Illustrator](https://www.adobe.com//) - Vector graphics editor
-- Indesign
-- [Responsive Design](http://ami.responsivedesign.is/) - Free software
-   to generate Mockup of Website on different devices
-- [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
-   To test the 'Performance, 'Best Practices', 'Accessibility' and 'SEO' of
-   a Website.
-- [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) -
-   Developing tool in Chrome to edit pages and diagnose problems
-- [Placeholder](https://placeholder.com/) - Used for placeholding of colour
-   schemes in README.md
-- [Gmail](https://www.emailjs.com/) - Used to create email and confirmation
-   service for users
-- [Maps Javascript API](https://developers.google.com/maps/documentation/javascript/overview)
-   Used to create interactive Map in contact page
-- [Stripe/ Web Hook Handlers](https://stripe.com/en-gb-se) - Used for secure
-   payments and signals
-- [Amazon Web Service](https://aws.amazon.com/) - Used to store static files
-   and images
-- [Date Picker](https://bootstrap-datepicker.readthedocs.io/en/latest/) -
-   Used to display calendar on appointment form
-- [Temp Mail](https://temp-mail.org/en/) - Used to test allauth authentications
-- [dbdiagram](https://dbdiagram.io/home/) - Used to draw Entity-Relationship
-   Diagrams
-
-
-
-
-
-
+<a href="https://developers.google.com/maps/documentation/javascript/overview"> <img src="https://developers.google.com/maps/images/maps-icon.svg" alt="Maps Javascript API" width="40" height="40"/> </a>
+<a href="https://www.google.com/chrome/dev/Google"> <img src="https://www.clipartmax.com/png/middle/69-690178_angularjs-google-chrome-icon-png.png" alt="Chrome Developer Tools" width="40" height="40"/> </a>
+<a href="https://stripe.com/en-gb-se"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Stripe_logo%2C_revised_2016.png/1920px-Stripe_logo%2C_revised_2016.png" alt="Stripe" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/"> <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" alt="AWS" width="40" height="40"/> </a>
 
 ---
 
