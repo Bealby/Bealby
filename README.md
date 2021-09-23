@@ -42,9 +42,6 @@ I am a Full Stack/ Frontend Web Developer.
 ### Language Validators
 
 <a href="https://validator.w3.org/"> <img src="https://logodownload.org/wp-content/uploads/2017/10/w3c-logo.png" alt="W3C" width="40" height="40"/> </a>
-<a href="https://validatejavascript.com/"> <img src="https://www.filepicker.io/api/file/4JkBtVU9QUwcwFCWi3AV" alt="JavaScript" width="40" height="40"/> </a>
-<a href="http://pep8online.com/"></a>
-<a href="https://github.com/Bealby/markdownlint"></a>
    
 ### Libraries & Frameworks
 
