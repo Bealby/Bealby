@@ -39,17 +39,6 @@ I am a Full Stack/ Frontend Web Developer.
 <a href="https://www.javascript.com/"> <img src="https://codingthesmartway.com/wp-content/uploads/2020/07/logo_javascript_2.jpg" alt="JavaScript" width="40" height="40"/> </a>
 <a href="https://www.python.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" width="40" height="40"/> </a>
 
-### Libaries & Frameworks
-
-- [DJANGO](https://www.djangoproject.com//) - A high-level Python Web framework that
-  encourages rapid development and clean, pragmatic design
-- [BOOTSTRAP](https://getbootstrap.com/) - A framework for building responsive
-   Websites
-- [jQuery](https://jquery.com/) - Used to implement Navigation Collapse feature
-   JavaScript Plugin
-   React
-
-
 ### Language Validators
 
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
@@ -59,6 +48,14 @@ I am a Full Stack/ Frontend Web Developer.
 - [Pep8 online](http://pep8online.com/) - Validator for Python code
 - [Markdown Lint](https://github.com/Bealby/markdownlint) - Markdown validation
    service used to check README.md and TESTING.md
+   
+### Libraries & Frameworks
+
+<a href="https://www.djangoproject.com/"> <img src="https://1.bp.blogspot.com/-SrStI0SKdN0/V1EEcbvCIrI/AAAAAAAAAdE/4Z8AjTvEjbkIr2EI6sirRNsPQgAgaBNdACLcB/s640/django-logo.png" alt="Django" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/"> <img src="https://www.kindpng.com/picc/m/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="Bootstrap" width="40" height="40"/> </a>
+<a href="https://jquery.com/"> <img src="https://logos-download.com/wp-content/uploads/2016/09/jQuery_logo.png" alt="JQuery" width="40" height="40"/> </a>
+<a href="https://reactjs.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" alt="React" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="Flask" width="40" height="40"/> </a>
 
 ### Databases
 
