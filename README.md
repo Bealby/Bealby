@@ -20,7 +20,7 @@ I am a Full Stack/ Frontend Web Developer.
 
 ## Contact
 
-- 📧  Get in touch **mgbealby@gmail.com**
+- 📧  **mgbealby@gmail.com**
 
 ---
 
