@@ -53,21 +53,21 @@ I am a Full Stack/ Frontend Web Developer.
 
 ### Databases
 
-<a href="https://www.mongodb.com/"> <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="MongoDB" width="50" height="40"/> </a>
-<a href="https://sqlite.org/index.html"> <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" alt="SQLITE" width="50" height="40"/> </a>
+<a href="https://www.mongodb.com/"> <img src="https://cdn-images-1.medium.com/max/1200/1*Mx3MUKkPENbaIR-vKGeLDw.jpeg" alt="MongoDB" width="50" height="40"/> </a>
+<a href="https://sqlite.org/index.html"> <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" alt="SQLITE" width="50" height="40"/> </a>
 <a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgresql" width="50" height="40"/> </a>
 
 
 ### Tools
 
 <a href="https://balsamiq.com/wireframes/"> <img src="https://media.balsamiq.com/files/company/balsamiq-logo-print.png" alt="Balsamiq Wireframes" width="100" height="40"/> </a>
-<a href="https://www.adobe.com/"> <img src="https://www.hsm360.com/wp-content/uploads/2016/07/Adobe-Photoshop-CC.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/"> <img src="https://2.bp.blogspot.com/-ARgR4o6ECr4/WJYunust9XI/AAAAAAAAANo/X8nfVx-ZF20lkYTpG4B1PwiIbwYJ24OkACLcB/s1600/Photoshop.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://www.softkey.ua/upload/iblock/b7c/adobe-illustrator-cc-5423.png" alt="Adobe Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://2.bp.blogspot.com/-wy_COL_zb4I/W93G6-iUaBI/AAAAAAAAAqM/MtJB5scs6LwCGTuR0FcpU6XsDrlj4DsQACLcBGAs/s1600/Adobe%2BInDesign%2BCC%2B2018%2BLogo.png" alt="Adobe Indesign" width="40" height="40"/> </a>
 <a href="https://developers.google.com/maps/documentation/javascript/overview"> <img src="https://developers.google.com/maps/images/maps-icon.svg" alt="Maps Javascript API" width="40" height="40"/> </a>
 <a href="https://www.google.com/chrome/dev/Google"> <img src="https://www.clipartmax.com/png/middle/69-690178_angularjs-google-chrome-icon-png.png" alt="Chrome Developer Tools" width="40" height="40"/> </a>
-<a href="https://stripe.com/en-gb-se"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Stripe_logo%2C_revised_2016.png/1920px-Stripe_logo%2C_revised_2016.png" alt="Stripe" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/"> <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" alt="AWS" width="40" height="40"/> </a>
+<a href="https://stripe.com/en-gb-se"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Stripe_logo%2C_revised_2016.png/1920px-Stripe_logo%2C_revised_2016.png" alt="Stripe" width="60" height="40"/> </a>
+<a href="https://aws.amazon.com/"> <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" alt="AWS" width="60" height="40"/> </a>
 
 ---
 
