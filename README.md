@@ -53,12 +53,10 @@ I am a Full Stack/ Frontend Web Developer.
 
 ### Databases
 
-MOngo
-- [SQLite](https://sqlite.org/index.html) - SQLite is a C-language library that
-   implements a small, fast, self-contained, high-reliability, full-featured,
-   SQL database engine
-- [Postgres](https://www.heroku.com/postgres#) - Heroku's relational database
-   management system
+<a href="https://www.mongodb.com/"> <img src="https://webimages.mongodb.com/_com_assets/cms/kpo5kblefbjq79065-Horizontal_Default.svg?auto=format%252Ccompress" alt="MongoDB" width="50" height="40"/> </a>
+<a href="https://sqlite.org/index.html"> <img src="https://download.logo.wine/logo/SQLite/SQLite-Logo.wine.png" alt="SQLITE" width="50" height="40"/> </a>
+<a href="https://www.postgresql.org/"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="Postgresql" width="50" height="40"/> </a>
+
 
 ### Tools
 
