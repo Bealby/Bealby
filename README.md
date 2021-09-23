@@ -69,6 +69,11 @@ I am a Full Stack/ Frontend Web Developer.
 <a href="https://stripe.com/en-gb-se"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Stripe_logo%2C_revised_2016.png/1920px-Stripe_logo%2C_revised_2016.png" alt="Stripe" width="60" height="40"/> </a>
 <a href="https://aws.amazon.com/"> <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" alt="AWS" width="60" height="40"/> </a>
 
+### Domain Hosting
+
+<a href="https://www.123-reg.co.uk/"> <img src="https://regmedia.co.uk/2016/04/18/123reg_logo.jpg?x=442&y=293&crop=1" alt="123-Reg" width="50" height="40"/> </a>
+<a href="https://uk.godaddy.com/"> <img src="https://thedesignest.net/wp-content/uploads/2020/01/Remastered-GoDaddy-logo.jpg" alt="godaddy" width="50" height="40"/> </a>
+
 ---
 
 ![Murray Bealby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bealby&show_icons=true&theme=prussian)
