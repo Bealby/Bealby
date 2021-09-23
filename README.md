@@ -8,6 +8,9 @@ I am a Full Stack/ Frontend Web Developer.
 
 - 👷 Building a website for
      Frank Hurst - Author of the infamous The Golden Triangle Trilogy
+- :books: I am currently expanding my experience in Javascript in React
+- :file_folder: All my projects can be found [here](https://murraybealby.com/github.html)
+- :email: Get in touch **mgbealby@gmail.com**
 
 ---
 
