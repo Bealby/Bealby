@@ -6,9 +6,9 @@ I am a Full Stack/ Frontend Web Developer.
 
 ## Clients
 
-- Frank Hurst - Novelist and Thriller Writer ➡️ 
-- Lisa Fairfield - Actress ➡️ 
-- Ignite Theatre - Theatrical Organisation ➡️ 
+- Frank Hurst - Novelist and Thriller Writer ➡️ [🌐 ](https://murraybealby.com/github.html)
+- Lisa Fairfield - Actress ➡️ [🌐 ](https://murraybealby.com/github.html)
+- Ignite Theatre - Theatrical Organisation ➡️ [here](https://murraybealby.com/github.html)
 
 ## Work in Progress
 
