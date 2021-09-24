@@ -1,4 +1,4 @@
-# WELCOME
+# WELCOME 😃 
 
 I am a Full Stack/ Frontend Web Developer.
 
