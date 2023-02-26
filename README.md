@@ -66,13 +66,13 @@ I am a Web Designer/ Web Developer.
 
 ### Tools
 
-<a href="https://balsamiq.com/wireframes/"> <img src="https://www.psdmockups.com/wp-content/uploads/2016/07/balsamiq.jpg" alt="Balsamiq Wireframes" width="100" height="100"/> </a>
+<a href="https://balsamiq.com/wireframes/"> <img src="https://www.psdmockups.com/wp-content/uploads/2016/07/balsamiq.jpg" alt="Balsamiq Wireframes" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://2.bp.blogspot.com/-ARgR4o6ECr4/WJYunust9XI/AAAAAAAAANo/X8nfVx-ZF20lkYTpG4B1PwiIbwYJ24OkACLcB/s1600/Photoshop.png" alt="Adobe Photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://www.softkey.ua/upload/iblock/b7c/adobe-illustrator-cc-5423.png" alt="Adobe Illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/"> <img src="https://2.bp.blogspot.com/-wy_COL_zb4I/W93G6-iUaBI/AAAAAAAAAqM/MtJB5scs6LwCGTuR0FcpU6XsDrlj4DsQACLcBGAs/s1600/Adobe%2BInDesign%2BCC%2B2018%2BLogo.png" alt="Adobe Indesign" width="40" height="40"/> </a>
 <a href="https://developers.google.com/maps/documentation/javascript/overview"> <img src="https://developers.google.com/maps/images/maps-icon.svg" alt="Maps Javascript API" width="40" height="40"/> </a>
 <a href="https://www.google.com/chrome/dev/Google"> <img src="https://www.clipartmax.com/png/middle/69-690178_angularjs-google-chrome-icon-png.png" alt="Chrome Developer Tools" width="40" height="40"/> </a>
-<a href="https://stripe.com/en-gb-se"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Stripe_logo%2C_revised_2016.png/1920px-Stripe_logo%2C_revised_2016.png" alt="Stripe" width="60" height="40"/> </a>
+<a href="https://stripe.com/en-gb-se"> <img src="https://cdn.dribbble.com/users/920/screenshots/1675816/stripe.png" alt="Stripe" width="60" height="40"/> </a>
 <a href="https://aws.amazon.com/"> <img src="https://www.theeggbrussels.com/wp-content/uploads/2018/05/logo-AWS-1024x658.png" alt="AWS" width="60" height="40"/> </a>
 
 ### Domain Hosting
