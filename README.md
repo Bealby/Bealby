@@ -53,7 +53,7 @@ I am a Web Designer/ Web Developer.
 ### Libraries & Frameworks
 
 <a href="https://www.djangoproject.com/"> <img src="https://1.bp.blogspot.com/-SrStI0SKdN0/V1EEcbvCIrI/AAAAAAAAAdE/4Z8AjTvEjbkIr2EI6sirRNsPQgAgaBNdACLcB/s640/django-logo.png" alt="Django" width="50" height="40"/> </a>
-<a href="https://getbootstrap.com/"> <img src="https://www.kindpng.com/picc/m/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="Bootstrap" width="50" height="40"/> </a>
+<a href="https://www.prestashop.com/en"> <img src="https://www.kindpng.com/picc/m/485-4850258_bootstrap-logo-png-image-free-download-searchpng-logos.png" alt="PresaShp Logo" width="50" height="40"/> </a>
 <a href="https://jquery.com/"> <img src="https://pluspng.com/img-png/jquery-logo-png-jquery-logo-png-transparent-background-png-img-transparent-860x868.png" alt="JQuery" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"> <img src="https://www.pngfind.com/pngs/m/128-1286693_flask-framework-logo-svg-hd-png-download.png" alt="Flask" width="40" height="40"/> </a>
 
