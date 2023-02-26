@@ -43,7 +43,7 @@ I am a Web Designer/ Web Developer.
 
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2017%2F07%2FHTML5_badge.png&f=1&nofb=1" alt="HTML" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F8c%2F8cdf4c047e99f7389e76aa4e2e7e2803.png&f=1&nofb=1" alt="CSS" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/"> <img src="[https://codingthesmartway.com/wp-content/uploads/2020/07/logo_javascript_2.jpg](https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png)" alt="JavaScript" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/"> <img src="https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png" alt="JavaScript" width="40" height="40"/> </a>
 <a href="https://www.python.org/"> <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="Python" with="40" height="40"/> </a>
 
 ### Language Validators
