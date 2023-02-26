@@ -19,7 +19,7 @@ I am a Web Designer/ Web Developer.
 
 ## Projects
 
-- 📂  All my projects can be found [here](https://murraybealby.com/github.html)
+- 📂  All my projects can be found [here](https://www.murraybealby.com/portfolio)
 
 ## Contact
 
